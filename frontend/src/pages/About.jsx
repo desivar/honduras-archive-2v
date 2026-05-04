@@ -160,8 +160,7 @@ const About = () => {
           {[
             { label: 'LinkedIn', icon: '🔗', url: 'https://linkedin.com/in/your-profile', color: '#0077b5' },
             { label: 'GitHub', icon: '💻', url: 'https://github.com/your-username', color: '#333' },
-            { label: 'X (Twitter)', icon: '🐦', url: 'https://x.com/your-handle', color: '#000' },
-            { label: 'Email', icon: '✉️', url: 'mailto:SE.Desire@email.com', color: '#737958' }
+            { label: 'Email', icon: '✉️', url: 'mailto:softwareengineerdesiv@gmail.com', color: '#737958' }
           ].map((social, i) => (
             <a 
               key={i}
